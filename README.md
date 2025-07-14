@@ -22,6 +22,7 @@ Includes **Bots**, countdown start, winner announcement, and a replay system!
 | `Assets/` | Game assets, scenes, scripts, prefabs |
 | `ProjectSettings/` | Unity project settings |
 | `Packages/` | Unity package manager data |
+| `Build/` | Game's exe file you can double tap to play |
 
 ---
 
@@ -82,21 +83,3 @@ Includes **Bots**, countdown start, winner announcement, and a replay system!
 - **C#** for scripting
 
 ---
-
-## 🤝 **Contributing**
-
-Feel free to fork, submit pull requests, or open issues!  
-This is a fun learning project for car games in Unity.
-
----
-
-## 📜 **License**
-
-MIT License - Free to use, modify, and distribute.
-
----
-
-## 👑 **Author**
-
-**Vikram** 🚀  
-[GitHub Profile](https://github.com/vkrm03)
