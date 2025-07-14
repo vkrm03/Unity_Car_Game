@@ -1,0 +1,37 @@
+[Libraries]
+[Libraries]/*
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+UserSettings/
+MemoryCaptures/
+
+# Visual Studio/JetBrains
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+
+# OS Specific
+.DS_Store
+Thumbs.db
+
+# Logs
+Logs/
+
+# Crash
+*.stacktrace
+
+# Builds
+*.apk
+*.exe
+
+# Other
+*.zip
+*.rar
